@@ -1,8 +1,0 @@
-.navbar a.nav-link {
-  color: white;
-  transition: 0.3s;
-}
-
-.navbar a.nav-link:hover {
-  color: #0dcaf0;
-}
